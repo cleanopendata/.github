@@ -4,18 +4,18 @@ A growing collection of repositories and resources for high-quality open dataset
 
 We focus on:
 - :magnet: code to fetch raw open data
-- :broom: code to clean it
-- :floppy_disk: code to store it in Apache Parquet format
+- :broom: code to bring it in analyze-ready form
+- :floppy_disk: code to store it in the convenient Apache Parquet format
 - :link: links to sources with analysis-ready data
 
 ### ✨ Our Repositories
 
-- :car: [Swiss Vehicle Data](https://github.com/cleanopendata/astra-vehicles): Fetch and clean Swiss vehicle data from [ASTRA, the Swiss Federal Roads Office](https://www.astra.admin.ch)
-- :crutch: [Swiss Health Insurance data](https://github.com/cleanopendata/foph-healthinsurance): Fetch and clean different open data from [FOPH, the Swiss Federal Office of Public Health](https://www.bag.admin.ch/de)
+- :car: [Swiss Vehicle Data](https://github.com/cleanopendata/astra-vehicles): Fetch and prepare Swiss vehicle data from [ASTRA, the Swiss Federal Roads Office](https://www.astra.admin.ch)
+- :crutch: [Swiss Health Insurance data](https://github.com/cleanopendata/foph-healthinsurance): Fetch and prepare different open data from [FOPH, the Swiss Federal Office of Public Health](https://www.bag.admin.ch/de)
 
 ### 🌍 Analysis-Ready Data Sources
 
-- 🥫: [Open Food Facts](https://world.openfoodfacts.org/data): Data on millions of food. As prepared Parquet files on [Hugging Face](https://huggingface.co/openfoodfacts/datasets)
+- 🥫: [Open Food Facts](https://world.openfoodfacts.org/data): Data on millions of different food. As prepared Parquet files on [Hugging Face](https://huggingface.co/openfoodfacts/datasets)
 - :taxi: [New York City Taxi Trip data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page): Infos on billions of taxi trips in parquet files
 
 ### 🤝 Contributing
