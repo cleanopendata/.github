@@ -4,7 +4,7 @@ A growing collection of repositories and resources for high-quality open dataset
 
 We focus on:
 - :magnet: code to fetch raw open data
-- :broom: code to bring it in analyze-ready form
+- :broom: code to bring it in analysis-ready form
 - :floppy_disk: code to store it in the convenient Apache Parquet format
 - :link: links to sources with analysis-ready data
 
