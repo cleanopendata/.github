@@ -13,6 +13,7 @@ We focus on:
 - :car: [Swiss Vehicle Data](https://github.com/cleanopendata/astra-vehicles): Fetch and prepare Swiss vehicle data from [ASTRA, the Swiss Federal Roads Office](https://www.astra.admin.ch)
 - :ambulance: [Swiss Accident Data](https://github.com/cleanopendata/astra-accidents): Fetch and store Swiss accident data from [ASTRA, the Swiss Federal Roads Office](https://www.astra.admin.ch)
 - :crutch: [Swiss Health Insurance data](https://github.com/cleanopendata/foph-healthinsurance): Fetch and prepare different open data from [FOPH, the Swiss Federal Office of Public Health](https://www.bag.admin.ch/de)
+- :people_holding_hands: [Swiss Municipalities with Population over Years](https://github.com/cleanopendata/fso-municipality-population): Fetch and prepare **Bilanz der ständigen Wohnbevölkerung nach Bezirken und Gemeinden** data from [FSO, the Swiss Federal Statistical Office](https://www.bfs.admin.ch/)
 
 ### 🌍 Analysis-Ready Data Sources
 
